@@ -90,6 +90,10 @@ a.nav-item:hover {
 	background-color: transparent; 
 }
 
+.column {
+	width : 300px;
+	height: 300px;
+}
 @media screen and (max-width: 768px) {
 	.nav-menu {
 		background-color: #063647;
